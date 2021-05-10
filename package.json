@@ -37,7 +37,7 @@
     "passport-oauth2": "^1.5.0",
     "pg": "^8.3.0",
     "pino": "^6.6.1",
-    "pino-pretty": "^3.5.0",
+    "pino-pretty": "^4.8.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.0",
     "react-google-login": "^5.1.21",
